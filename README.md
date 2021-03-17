@@ -99,18 +99,16 @@ Here, We first sort the array. Now we know that the maximum possible value resul
 
 **Time Complexity**
 The overall time complexity of the solution to return the maximized minimum distance between any two consecutive points among the k points from the array Arr  which is sorted in non-decreasing order is O(n*logn).
-Algorithm 1 uses the concept of binary search where we start with the middle of
-maximum possible result and for this total number of iterations of while loop would be
-of the order O(logn).
-In each iteration, function which is responsible for checking the feasibility by placing k
-elements under given mid-distance which in turn traverse the whole array making the
-complexity of the order O(n).
+Algorithm 1 uses the concept of binary search where we start with the middle of maximum possible result and for this total number of iterations of while loop would be of the order O(logn).
+In each iteration, function which is responsible for checking the feasibility by placing k elements under given mid-distance which in turn traverse the whole array making the complexity of the order O(n).
 
 
 **Space Complexity**
 
-Since no extra space is used in this algorithm , so auxiliary space is constant.Only the input array is of size n. So , Space Complexity=Input Space+Auxiliary Space=O(n), this Algorithm uses linear Space
----
+Since no extra space is used in this algorithm , so auxiliary space is constant.
+Only the input array is of size n. So , Space Complexity = Input Space + Auxiliary Space =
+O(n), this Algorithm uses linear Space
+
 
 ### References
 
