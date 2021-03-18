@@ -102,7 +102,7 @@ Time Complexity The overall time complexity of the solution to return the maximi
 
 **Space Complexity**
 
-Since no extra space is used in this algorithm, so auxiliary space is constant. Only the input array is of size n. So,Space Complexity=Input Space+Auxiliary Space=O(n), this Algorithm uses linear Space
+Since no extra space is used in this algorithm, so auxiliary space is constant. Only the input array arr is of size n. So,Space Complexity=Input Space+Auxiliary Space=O(n), this Algorithm uses linear Space
 
 ---
 
