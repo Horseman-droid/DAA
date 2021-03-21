@@ -87,7 +87,7 @@ Largest minimum distance = 5
 ---
 
 ### Theory
-The Solution to this problem is based on Binary Search which uses the Divide and Conquer algorithm technique. Divide and Conquer algo involves 3 steps- 
+The Solution to this problem is based on Binary Search which uses the Divide and Conquer algorithm technique. Divide and Conquer algorithm involves 3 steps- 
 Divide: This involves dividing the problem into some sub problem.
 Conquer: Sub problem by calling recursively until sub problem solved.
 Combine: The Sub problem Solved so that we will get find problem solution. 
@@ -117,7 +117,6 @@ Space Complexity = Input Space + Auxiliary Space ,which in turn equal to O(n).
 
 ### References
 
-https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/   
-https://www.geeksforgeeks.org/place-k-elements-such-that-minimum-distance-is-maximized/    
+https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/      
 https://www.tutorialspoint.com/place-k-elements-such-that-minimum-distance-is-maximized-in-cplusplus     
 
