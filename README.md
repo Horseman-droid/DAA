@@ -110,4 +110,4 @@ A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (D
 ### References
 
 https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
-https://www.geeksforgeeks.org/place-k-elements-such-that-minimum-distance-is-maximized/
+https://www.tutorialspoint.com/place-k-elements-such-that-minimum-distance-is-maximized-in-cplusplus
